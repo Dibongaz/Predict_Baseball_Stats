@@ -14,8 +14,6 @@ At the end, you'll have a model that can predict future season WAR, along with n
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/baseball_games)
-
 File overview:
 
 * `next_war.ipynb` - a Jupyter notebook that contains the code to predict next season WAR.
